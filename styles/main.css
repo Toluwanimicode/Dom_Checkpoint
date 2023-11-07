@@ -1,0 +1,63 @@
+.content{
+   display: flex;
+   margin: 30px;
+}
+
+.price{
+    color: #F2994A;
+}
+.bag{
+    margin: 30px;
+    
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.number{
+    color: #F2994A;
+}
+
+.line{
+    width: 100%;
+}
+
+.ship{
+    display: flex;
+}
+
+.Total{
+    display: flex;
+    justify-content: space-between;
+}
+
+.totalnumber{
+    margin-top: 15px;
+    font-size: 200%;
+}
+
+.Shipping{
+    display: flex;
+    justify-content: space-between;
+}
+.btn1{
+    border-radius: 30px;
+    display: flex;
+    gap: 8px;
+    font-size: 20px;
+}
+.btn2{
+    border-radius: 30px;
+    display: flex;
+    gap: 8px;
+    font-size: 20px;
+    
+}
+.bod{
+    margin: 50px;
+    
+}
+
+.info{
+    padding-top: 2%; 
+}
+
